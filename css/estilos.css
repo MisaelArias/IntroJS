@@ -1,0 +1,26 @@
+header{
+    text-align: center;
+    background-image: URL(../img/interna2.jpg);
+    height: 100%;
+    padding: 1em;
+    color: white;
+}
+
+.panel-contenido {
+    padding: 30px !important;
+    margin: 40px !important;
+    box-shadow: 1px 10px 10px 10px #888888 !important;
+    width: max-content !important;
+}
+
+#content{
+    text-align: center;
+}
+#div-login{
+    max-width: 550px;
+    text-align: center;
+}
+#div-cuenta-iniciada{
+    text-align: center;
+
+}
